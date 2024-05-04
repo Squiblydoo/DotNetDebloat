@@ -1,3 +1,5 @@
+![dotNetDebloat](https://github.com/Squiblydoo/DotNetDebloat/assets/77356206/56bcf2fa-44fc-497e-8b97-1d7375cefcef)
+
 # DotNetDebloat
 This repository contains dotNet tools to address dotNet binary bloat.
 
