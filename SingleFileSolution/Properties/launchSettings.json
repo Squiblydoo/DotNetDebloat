@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SingleFileSolution": {
+      "commandName": "Project",
+      "commandLineArgs": "POC.exe"
+    }
+  }
+}
